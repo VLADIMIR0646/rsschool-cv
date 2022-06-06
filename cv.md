@@ -1,9 +1,5 @@
 # Vladimir Sobolev
-![logo][1]
-
-[1]:
-portrietMD.png
-"portriet Vladimir Sobolev"
+!["portriet Vladimir Sobolev"](./img/portrietMD.png)
 ## Contact information
 * __Location:__ Saint Petersburg;
 * __Phone:__ +7 (952) 666-82-04;
