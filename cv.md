@@ -29,7 +29,7 @@ function wave(str) {
    return wave
 }
 ```
-## Experiance
+## Experience
 I've just started study free IT courses from the community "The Rolling Scopes" [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
 ## Education
 Federal State Budgetary Educational Institution of Higher Education "Togliatti State University" Tolyatti\
