@@ -2,7 +2,7 @@
 ![logo][1]
 
 [1]:
-img/portrietMD.png
+portrietMD.png
 "portriet Vladimir Sobolev"
 ## Contact information
 * __Location:__ Saint Petersburg;
